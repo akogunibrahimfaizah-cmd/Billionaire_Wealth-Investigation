@@ -1,4 +1,5 @@
 # **BILLIONAIRE WEALTH INVESTIGATION USING SQL**
+<img width="1280" height="720" alt="Question_13_Richest_Billionaire_In_Each_Country" src="https://github.com/user-attachments/assets/0b79f54b-504c-46c6-84df-295839444aff" />
 
 
 
