@@ -4,8 +4,9 @@
 
 #### **Project Overview**
 
-**T**his project explores a dataset of the world's richest billionaires using SQL. The aim is to analyze billionaires wealth, age, country, and industry, and to identify patterns and insights from the data.
-
+This project explores a dataset of the world's richest billionaires using SQL. The aim is to analyze billionaires wealth, age, country, and industry, and to identify patterns and insights from the data. 
+![SQL Project Preview]
+**Dataset:** [View Wxcel Dataset](https://docs.google.com/spreadsheets/d/1Z9uQOhtrSTniTTu76Aic6oUDe30acfwB9GP6TqCoEGo/edit?usp=sharing)
 The analysis was carried out using SQLite, with SQL queries written to answer business and data related questions.
 
 
@@ -74,7 +75,7 @@ The project uses the following SQL concepts:
 
 * **Billionaire\_Wealth\_Queries.sql -** Contains the SQL queries used for the analysis.
 * **Billionaire\_Wealth.db -** SQLite database containing the imported dataset.
-* Screenshots/ - Contains screenshots showing the results of the SQL queries.
+* **Screenshots/** - Contains screenshots showing the results of the SQL queries.
 
 
 
